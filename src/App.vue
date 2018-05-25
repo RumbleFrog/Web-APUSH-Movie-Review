@@ -8,6 +8,6 @@
 
 <script>
 export default {
-  name: 'APUSH-Movie-Review',
+    name: 'APUSH-Movie-Review',
 };
 </script>
