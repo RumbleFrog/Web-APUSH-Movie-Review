@@ -1,23 +1,13 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
+  <section id="app" class="hero is-primary is-fullheight">
+      <div class="hero-body">
+          <router-view></router-view>
+      </div>
+  </section>
 </template>
 
 <script>
 export default {
-  name: 'App'
-}
+  name: 'APUSH-Movie-Review',
+};
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
