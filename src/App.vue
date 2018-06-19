@@ -1,6 +1,6 @@
 <template>
   <section id="app" class="hero is-primary is-fullheight">
-      <div class="hero-body">
+      <div class="hero-body has-text-centered">
           <router-view></router-view>
       </div>
   </section>
