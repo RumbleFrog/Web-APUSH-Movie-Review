@@ -3,6 +3,8 @@ import Router from 'vue-router';
 
 import Landing from '@/components/Landing';
 
+import ForrestGump from '@/components/Movies/ForrestGump';
+
 Vue.use(Router);
 
 export default new Router({
@@ -11,6 +13,11 @@ export default new Router({
             path: '/',
             name: 'Landing',
             component: Landing,
+        },
+        {
+            path: '/ForrestGump',
+            name: 'ForrestGump',
+            component: ForrestGump,
         },
     ],
 });
