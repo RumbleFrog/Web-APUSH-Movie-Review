@@ -136,8 +136,42 @@
             title="JFK Assassination"
             valid>
         <p>
-            
+            In the Forrest Gump film, Forrest meets the President in Washington, D.C.
+            to be congratulated when he is certified an All-American football player
+            for his performance at the University of Alabama. Presented with free
+            food and drink, Forrest indulges in (he estimates) 15 Dr. Peppers,
+            so that when he is asked by the President on live television
+            "How does it feel to be an All-American?" all he can think to say
+            is "I got to pee". Later, Forrest laments on President Kennedy's
+            assassination, followed by that of his brother Robert Kennedy in 1968.
+        </p>
+        <p>
+            John F. Kennedy, the 35th President of the United States,
+            was assassinated on Friday, November 22, 1963,
+            in Dallas, Texas, while riding in a presidential motorcade through
+            Dealey Plaza.
+            Kennedy was riding with his wife Jacqueline,
+            Texas Governor John Connally, and Connally's wife,
+            Nellie when he was fatally shot.
+        </p>
+        </FGArticle>
 
+        <FGArticle
+            img="/static/img/fg/wr.jpg"
+            title="Women's Rights"
+            valid>
+        <p>
+            Forrest Gump, one day, decides to “go for a little run.”
+            He runs from coast to coast, gradually amassing a crowd of followers.
+            Reporters want to know what his motivation is — is he running or women’s rights?
+        </p>
+        <p>
+            Women's rights are the rights and entitlements claimed for women and
+            girls worldwide, and formed the basis for the women's
+            rights movement in the nineteenth century and feminist
+            movement during the 20th century.
+        </p>
+        </FGArticle>
     </div>
 </template>
 

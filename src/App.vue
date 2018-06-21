@@ -1,5 +1,5 @@
 <template>
-  <section id="app" class="hero is-dark is-fullheight">
+  <section id="app" class="hero is-info is-fullheight">
       <div class="hero-body">
           <div class="container">
               <router-view></router-view>
