@@ -32,7 +32,7 @@
             being from first interaction with Captain Miller to a liability
             on the battlefield and a wannabe hero, and finally to someone
             that is viewed as the team's trophy and privilege of going home.
-            Despite of personality not changing much throughout, the perspective
+            Despite personality not changing much throughout, the perspective
             of the people that viewed him changed throughout the film.
             </SPRCharacter>
         </div>
@@ -40,13 +40,13 @@
             <SPRCharacter
                 img="/static/img/spr/richard.jpg"
                 name="Richard Reiben">
-            Richard Reiben is just like any other fellows on the team,
+            Richard Reiben is just like any other fellows on the team;
             he was randomly drafted to on this search and rescue mission
             for Ryan. In the film, he questioned and challenged Captain Miller's
             way of thinking, saying that it's a suicide and he's not doing it and
             disobeying commander's order. But, with the speech from Captain Miller,
             he quickly converted to someone that wants to remain and complete
-            the mission. We see his anguish released again when Ryan refuses to
+            the mission. We see his anguish rereleased when Ryan refuses to
             leave his post, leaving Richard furious with him but he managed to maintain
             his temper after the first time.
             </SPRCharacter>

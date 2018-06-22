@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </router-link>
-            <div id="hf" class="column is-3 animated fadeInDown">
+            <router-link to="HiddenFigures" id="hf" class="column is-3 animated fadeInDown">
                 <div class="box">
                     <div class="card">
                         <div class="card-image">
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </router-link>
         </div>
     </div>
 </template>
