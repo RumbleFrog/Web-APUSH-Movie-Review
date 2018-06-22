@@ -1,5 +1,10 @@
 <template>
-    <div class="box content animated fadeIn">
+    <article class="message is-success">
+        <div class="message-header">
+            <p>An Ode To The Forgotten</p>
+            <button class="delete" aria-label="delete"></button>
+        </div>
+        <div class="message-body">
         It's my pleasure today to invigorate a forgotten member
         within our society. One that we cannot function today
         without him existing, and you might think it's some white
@@ -28,7 +33,8 @@
         None. And for that, it's my duty today to represent the
         person that help put a face to America's modern industry.
         For that, we thank him for his invention.
-    </div>
+        </div>
+    </article>
 </template>
 
 <script>
@@ -38,7 +44,7 @@ export default {
 </script>
 
 <style scoped>
-.box {
+.message {
     line-height: 2em;
 }
 </style>
