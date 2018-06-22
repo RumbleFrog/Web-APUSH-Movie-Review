@@ -1,5 +1,5 @@
 <template>
-    <article class="message is-success">
+    <article class="message is-success animated fadeIn">
         <div class="message-header">
             <p>An Ode To The Forgotten</p>
             <button class="delete" aria-label="delete"></button>
