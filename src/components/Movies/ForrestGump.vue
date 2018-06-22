@@ -3,6 +3,7 @@
         <FGArticle
             img="/static/img/fg/vietnam.jpg"
             title="Vietnam War"
+            cite="https://artsandculture.google.com/entity/m07_nf?categoryId=event"
             valid>
         <p>Forrest Gump enlists in the army where he is sent to the front line in Vietnam.</p>
 
@@ -17,6 +18,7 @@
         <FGArticle
             img="/static/img/fg/kkk.jpg"
             title="Ku Klux Klan"
+            cite="https://ieftine.euwww.revolvy.com/topic/Ku%20Klux%20Klan&item_type=topic"
             valid>
         <p>
             Forrest Gump said in the movie that his mother named him after a Civil war hero,
@@ -34,6 +36,7 @@
         <FGArticle
             img="/static/img/fg/watergate.jpg"
             title="Watergate Scandal"
+            cite="https://www.history.com/topics/watergate"
             valid>
         <p>In the movie, Forrest Gump witnesses the Watergate Scandal from the Watergate hotel.</p>
 
@@ -46,6 +49,7 @@
 
         <FGArticle
             img="/static/img/fg/smiley.jpg"
+            cite="https://www.smithsonianmag.com/arts-culture/who-really-invented-the-smiley-face-2058483/"
             title="Smiley">
         <p>
             In the movie, a man asks Forrest Gump for ideas of T-shirt designs.
@@ -66,6 +70,7 @@
         <FGArticle
             img="/static/img/fg/ping-pong.jpg"
             title="Ping Pong"
+            cite="https://quizlet.com/129616064/chapter-18-19-flash-cards/"
             valid>
         <p>
             In the movie, Forrest Gump becomes very adept at playing ping pong.
@@ -84,6 +89,7 @@
         <FGArticle
             img="/static/img/fg/alcoholism.jpg"
             title="Alcoholism"
+            cite="https://pubs.niaaa.nih.gov/publications/Social/Module1Epidemiology/Module1.html"
             valid>
         <p>
             As portrayed in the movie, Lieutenant Dan was a heavily alcohol drinker.
@@ -91,13 +97,14 @@
         <p>
             Epidemiology, as a field, is concerned with the distribution and
             determinants of health and diseases, morbidity, injuries,
-            disability and mortality in populations (Friis & Sellers, 1999).
+            disability and mortality in populations in 1900's.
         </p>
         </FGArticle>
 
         <FGArticle
             img="/static/img/fg/veteran.jpg"
             title="Veteran Treatment"
+            cite="https://thevietnamwar.info/vietnam-war-veterans/"
             valid>
         <p>
             Lietenant Dan did not receive any compensation for his return from the
@@ -119,6 +126,7 @@
         <FGArticle
             img="/static/img/fg/bvb.jpg"
             title="Brown vs Board"
+            cite="https://supreme.justia.com/cases/federal/us/347/483/case.html"
             valid>
         <p>
             Nine black students were enrolled at an all white high school in the film.
@@ -134,6 +142,7 @@
         <FGArticle
             img="/static/img/fg/jfk.jpg"
             title="JFK Assassination"
+            cite="https://www.jfklibrary.org/JFK/JFK-in-History/November-22-1963-Death-of-the-President.aspx"
             valid>
         <p>
             In the Forrest Gump film, Forrest meets the President in Washington, D.C.
@@ -159,6 +168,7 @@
         <FGArticle
             img="/static/img/fg/wr.jpg"
             title="Women's Rights"
+            cite="https://en.wikipedia.org/wiki/Women%27s_rights"
             valid>
         <p>
             Forrest Gump, one day, decides to “go for a little run.”

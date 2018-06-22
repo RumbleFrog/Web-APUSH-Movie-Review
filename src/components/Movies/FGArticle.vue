@@ -7,7 +7,7 @@
             <div class="media-content">
                 <div class="content">
                     <h1>{{ title }} <b-icon :icon="valid ? 'check' : 'times'"></b-icon></h1>
-                    <slot></slot>
+                    <slot></slot><a :href="cite"><small>[Source]</small></a>
                 </div>
             </div>
         </article>
@@ -20,6 +20,7 @@ export default {
     props: {
         img: String,
         title: String,
+        cite: String,
         valid: {
             type: Boolean,
             default: false,

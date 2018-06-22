@@ -32,10 +32,10 @@ export default {
 .hero.is-info .title {
     color: inherit;
 }
-.card {
+/* .card {
     height: 100%;
 }
 .jfr {
     height: 488px;
-}
+} */
 </style>
