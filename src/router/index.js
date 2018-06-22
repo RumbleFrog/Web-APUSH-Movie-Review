@@ -5,6 +5,7 @@ import Landing from '@/components/Landing';
 
 import ForrestGump from '@/components/Movies/ForrestGump';
 import TakingChance from '@/components/Movies/TakingChance';
+import SavingPrivateRyan from '@/components/Movies/SavingPrivateRyan';
 
 Vue.use(Router);
 
@@ -24,6 +25,11 @@ export default new Router({
             path: '/TakingChance',
             name: 'TakingChance',
             component: TakingChance,
+        },
+        {
+            path: '/SavingPrivateRyan',
+            name: 'SavingPrivateRyan',
+            component: SavingPrivateRyan,
         },
     ],
 });
